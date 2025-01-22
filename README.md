@@ -27,7 +27,7 @@ _______________________________________
 
 1. Clonar el repositorio
 
-git clone https://xXlucasXxLr01/api_listaDeTareas
+https://github.com/xXlucasXxLr01/gestor-de-logistica.git
 
 2. instalar en la carperta del proyecto las dependencias necesarias:
     a traves de npm install
